@@ -31,13 +31,13 @@ ms.custom: intune-enduser
 
 # Using your Android device with Intune Company Portal
 
-This article lists tasks and information specific to the Company Portal for Android. Use it to help you troubleshoot and manage your Android device. Click any link to see more details, steps, and screenshots. 
+This article lists tasks and information specific to the Company Portal for Android. Use it to help you troubleshoot and manage your Android device. Click any link to see more details, steps, and screen shots. 
 
 ## Supported versions
 
-The Company Portal currently supports Android 4.4 and later. Support for Samsung Knox 4.4 and later devices is also included.
+The Company Portal currently supports Android 4.4 and later. This includes Samsung Knox devices that run Android 4.4 and later versions.
 
-## Enrolling into Intune and installing the Company Portal
+## Enrolling in Intune and installing the Company Portal
 
 - [Enroll your device in Intune](enroll-your-device-in-Intune-android.md)
 - [Create a work profile and enroll your device in Intune](create-a-work-profile-and-enroll-your-device-in-intune-android.md)
